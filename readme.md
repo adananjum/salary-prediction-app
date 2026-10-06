@@ -39,10 +39,12 @@ The model is trained using the training data and evaluated using the testing dat
 
 The model is evaluated using the following metrics:
 
-* Mean Absolute Error (MAE)
-* Mean Squared Error (MSE)
-* Root Mean Squared Error (RMSE)
-* R² Score
+Evaluation Metrics
+
+MAE: 4056.34
+MSE: 23745684.25
+RMSE: 4872.95
+R² Score: 0.9831
 
 These metrics are used to measure how well the model predicts salary values.
 
